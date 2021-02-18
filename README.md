@@ -1,7 +1,6 @@
 # Kevin Rodríguez
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrodriguez-io&theme=synthwave)
 
 Twitter: [@MisterKevin_js](https://twitter.com/MisterKevin_js/)
 
