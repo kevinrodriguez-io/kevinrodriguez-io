@@ -1,4 +1,11 @@
-### Hi there 👋
+# Kevin Rodríguez
+
+## Tech Lead
+
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrodriguez-io)](https://github.com/anuraghazra/github-readme-stats)
+
+Twitter: [@MisterKevin_js](https://twitter.com/MisterKevin_js/)
 
 <!--
 **kevinrodriguez-io/kevinrodriguez-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
