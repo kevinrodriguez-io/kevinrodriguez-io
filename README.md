@@ -1,6 +1,8 @@
 # Kevin Rodríguez
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&count_private=true&show_icons=true&theme=synthwave)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrodriguez-io&layout=compact&hide=Java&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Twitter: [@MisterKevin_js](https://twitter.com/MisterKevin_js/)
 
