@@ -1,6 +1,6 @@
 # Kevin Rodríguez
 
-[Links ](https://y.at/☢🤖☢)
+[https://y.at/☢🤖☢](https://y.at/☢🤖☢)
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
