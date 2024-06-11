@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **_@kevinrodriguez.io**
 
-- 📄 Know about my experience [kevinrodriguez.io](kevinrodriguez.io)
+- 📄 Know about my experience [kevinrodriguez.io](https://kevinrodriguez.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
