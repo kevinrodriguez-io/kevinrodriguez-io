@@ -14,7 +14,7 @@ I'm a passionate Blockchain Engineer with over a decade of experience in softwar
 
 ### 📬 Let's Connect
 - Twitter: [@misterkevin_rs](https://twitter.com/misterkevin_rs)
-- Email: [kevin@kevinrodriguez.io](mailto:kevin@kevinrodriguez.io)
+- Email: [kevin@kevinrodriguez.io](mailto:_@kevinrodriguez.io)
 - Website: [kevinrodriguez.io](https://kevinrodriguez.io)
 
 ### 🏆 Notable Projects
