@@ -20,6 +20,3 @@ I'm a passionate Blockchain Engineer with over a decade of experience in softwar
 ### 📈 GitHub Stats
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&show_icons=true&theme=dark)
 
-### 🎸 Fun Facts
-- I love playing the guitar and often compose my own music.
-- I'm an avid traveler and enjoy exploring new cultures.
