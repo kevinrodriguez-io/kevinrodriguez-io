@@ -5,7 +5,6 @@
 I'm a passionate Blockchain Engineer with over a decade of experience in software development. My coding journey began at 16, and I've been committed to pushing the boundaries of technology ever since. Besides coding, I enjoy playing the guitar and exploring the latest advancements in blockchain technology.
 
 ### 🛠 Technologies & Tools
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Solana](https://img.shields.io/badge/-Solana-black?style=flat-square&logo=solana)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
