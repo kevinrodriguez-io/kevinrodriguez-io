@@ -13,8 +13,6 @@ I'm a passionate Blockchain Engineer with over a decade of experience in softwar
 
 ### 📬 Let's Connect
 - Twitter: [@misterkevin_rs](https://twitter.com/misterkevin_rs)
-- Email: [_@kevinrodriguez.io](mailto:_@kevinrodriguez.io)
-- Website: [kevinrodriguez.io](https://kevinrodriguez.io)
 
 ### 📈 GitHub Stats
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-io&show_icons=true&theme=dark)
